@@ -1,0 +1,37 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+  }
+  .col {
+    flex: 1;
+    padding: 10px;
+  }
+  .text {
+    height: 160px;
+    width: 356px;
+
+    left: 11.81%;
+    right: 65.94%;
+    top: 3.58%;
+    bottom: 93.56%;
+
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 80px;
+/* or 125% */
+
+
+    color: #202336;
+
+    mix-blend-mode: normal;
+  }
+  .image{
+    width: 687px;
+    height: 654px;
+    left: 807px;
+    top: 167px;
+  }
