@@ -108,6 +108,7 @@
 .signup:hover {
   background-color: #fff;
   color: #FB8F1D;
+  border: 1px solid #FB8F1D;
 }
 
 .AuthBut {

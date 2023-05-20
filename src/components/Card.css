@@ -1,0 +1,53 @@
+.card-holder{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-direction: row;
+    position: relative;
+    width: 410px;
+    height: 340px;
+    border-radius: 30px;
+    left: 54px;
+    top: 225px;
+}
+.img-holder{
+width: 410px;
+height: 340px;
+border-radius: 30px;
+}
+.title{
+    left: 32.8px;
+    top:219.3px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FBFFFE;
+}
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 410px;
+    height: 340px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: start;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 16px,;
+    box-sizing: border-box;
+    text-align: center;
+}
+.description{
+    left: 86.8px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: start;
+}

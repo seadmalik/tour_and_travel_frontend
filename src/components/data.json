@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "title": "Ethiopia",
+      "country": "Gondar",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "imageSrc": "https://brilliant-ethiopia.imgix.net/fasil-ghebbi-royal-enclosure-gondar.jpg?auto=format,enhance,compress&fit=crop&crop=entropy,faces,focalpoint&w=580&h=480&q=40"
+    },
+    {
+      "id": 2,
+      "title": "Ethiopia",
+      "country": "Gondar",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "imageSrc": "https://scenicethiopiatravel.com/wp-content/uploads/2018/12/fb-img-1480105000597.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Ethiopia",
+      "country": "Harrar",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "imageSrc": "https://brilliant-ethiopia.imgix.net/lalibela-rock-churches-ethiopia-8.jpg?auto=format,enhance,compress&fit=crop&crop=entropy,faces,focalpoint&w=1200&h=0&q=30"
+    },
+    {
+      "id": 4,
+      "title": "Ethiopia",
+      "country": "Danakil",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/57b88db03e00be38aec142b0/1506758128019-2ETDO8H37KGGCBV6W5CJ/Things_to_know_before_you_go_to_ETT_Danakil_Depression_Tours_HandZaround_Ethiopia_16x9.jpg?format=1500w"
+    },
+    {
+      "id": 5,
+      "title": "Ethiopia",
+      "country": "Ensaro",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "imageSrc": "https://www.p2b-ethiopia.com/wp-content/uploads/2022/01/ensaro.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Ethiopia",
+      "country": "Abay",
+      "description": "This is the description for card 2",
+      "imageSrc": "https://brilliant-ethiopia.imgix.net/blue-nile-falls-7.JPG?auto=format,enhance,compress&fit=crop&crop=entropy,faces,focalpoint&w=580&h=480&q=40"
+    }
+  ]

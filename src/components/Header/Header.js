@@ -11,7 +11,7 @@ function Header() {
       </Link>  
       <div className="col navbar">
         <NavLink to="/" className='font' activeClassName='active-link' exact>Home</NavLink>
-        <NavLink to="/destnations" className='font' activeClassName='active-link' exact>Destinations</NavLink>
+        <NavLink to="/destinations" className='font' activeClassName='active-link' exact>Destinations</NavLink>
         <NavLink to="/hotels" className='font' activeClassName='active-link' exact>Hotels</NavLink>
         <NavLink to="/about" className='font' activeClassName='active-link' exact>About</NavLink>  
       </div>
