@@ -16,7 +16,7 @@ function Header() {
         <NavLink to="/about" className='font' activeClassName='active-link' exact>About</NavLink>  
       </div>
       <div className="AuthBut col row">
-             <div className='signin '>Sign In</div>
+              <NavLink to="/SignIn" className='signin ' activeClassName='active-link'exact>Sign In</NavLink>
              <div className='signup '>Register</div>
       </div>        
     </nav>

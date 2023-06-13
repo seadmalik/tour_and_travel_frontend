@@ -1,0 +1,29 @@
+.grid-container{
+  display: grid;
+  grid-template-columns: repeat(3, 200px);
+  grid-row-gap: 20px;
+  grid-column-gap: 250px;
+}
+.img-holder{
+  height: 250px;
+  width: 420px;
+  left: 75px;
+  top: 360px;
+  border-radius: 20px;  
+margin: 20px;
+border-radius: 20px;
+overflow: hidden;
+display: flex;
+justify-content:baseline ;
+text-align: center;
+}
+.hotel-desc{
+  height: 190px;
+  width: 419px;
+  left: 75px;
+  top: 650px;
+  border-radius: 0px;
+  
+
+}
+.txt-fea{text-align: right;}

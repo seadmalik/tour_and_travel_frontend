@@ -4,9 +4,7 @@ import App from './App';
 import { BrowserRouter } from 'react-router-dom'
 
 
-function MyFunction(props) {
-  // Function logic goes here
-}
+
 
 ReactDOM.render(
   <React.StrictMode>

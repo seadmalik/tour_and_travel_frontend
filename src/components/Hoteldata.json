@@ -1,0 +1,24 @@
+[ 
+     { "hotel_id": "1",
+"hotel_name": "Sheraten Addis Hotel",
+"hotel_location": "Addis Abeba",
+"hotel_image": "https://i.pinimg.com/originals/bd/39/3c/bd393c2e45703f794ea7e167e0085e7b.jpg",
+"hotel_desc": "its five star hotel Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+"hotel_price": "200$"
+},
+{ "hotel_id": "2",
+"hotel_name": "Hayat Regenrcy",
+"hotel_location": "Addis Abeba",
+"hotel_image": "https://journeysbydesign.com/wp-content/uploads/2020/02/cropDSC_1676-960x647.jpg",
+"hotel_desc": "its five star hotel Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+"hotel_price": "180$"
+},   
+ { "hotel_id": "3",
+"hotel_name": "Sky-Light",
+"hotel_location": "Addis Abeba",
+"hotel_image": "https://www.tourismupdate.co.za/sites/default/files/images/article/201907/ethiopian-airlines-second-skylight-hotel-addis-ababa.jpg",
+"hotel_desc": "its five star hotel Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+"hotel_price": "220$"
+}
+
+]
